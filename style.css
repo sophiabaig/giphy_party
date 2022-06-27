@@ -1,3 +1,57 @@
+* {
+    font-family: 'DM Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    border-width: 1px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+#form {
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    padding: 5px;
+}
+
+label {
+    font-size: 15px;
+    padding: 3px;
+}
+
+input {
+    font-size: 15px;
+    padding: 3px;
+}
+
+body {
+    background: rgb(206, 177, 170);
+}
+
+#gif-results {
+    display: grid;
+    justify-content: space-evenly;
+    grid-gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
 .hidden {
-    display: none
+    display: none;
+}
+
+.gif {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    
+}
+
+#more-button{
+    display: flex;
+    justify-content: space-evenly;
 }
