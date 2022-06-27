@@ -1,0 +1,5 @@
+const form = document.querySelector("#form")
+const searchBar = document.querySelector("#search-bar")
+const userInput = document.querySelector("#user-input")
+const submit = document.querySelector("#submit")
+const gifResults = document.querySelector("#gif-results")
