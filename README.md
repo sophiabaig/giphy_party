@@ -13,3 +13,5 @@
 #### MY NOTES
 - Use form element to collect user input and then use JavaScript to process the data and do something with it
 - Different API endpoints depending on what you are requesting/what kind of data you want
+
+NOTE: Testing out branching and pull requests!
